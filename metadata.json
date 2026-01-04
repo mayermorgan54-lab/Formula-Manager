@@ -1,0 +1,5 @@
+{
+  "name": "Formula Manager",
+  "description": "A production management system for formulas, batch calculations, and purchasing requirements connected to Google Sheets.",
+  "requestFramePermissions": []
+}
